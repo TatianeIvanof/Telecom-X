@@ -37,10 +37,10 @@ Esses insights servirão de base para que a equipe de **Data Science** avance pa
 ## 📂 Estrutura do Projeto
 
 ```
-📁 telecom-x-churn
+📁 Telecom-X
 │
-├── Telecom_X1.ipynb   # Notebook com todo o processamento e análise
 ├── README.md          # Documentação do projeto
+├── Telecom_X1.ipynb   # Notebook com todo o processamento e análise
 └── requirements.txt   # Dependências do projeto
 ```
 
