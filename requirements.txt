@@ -1,0 +1,9 @@
+json
+matplotlib
+numpy
+pandas
+requests
+scipy
+seaborn
+scikit-learn
+warnings
